@@ -25,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string}
           - {label: Mots-clés, name: keywords, widget: string}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/faq.md"
         label: "FAQ"
         name: "faq"
@@ -32,3 +33,4 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string}
           - {label: Mots-clés, name: keywords, widget: string}
+          - {label: Body, name: body, widget: markdown}

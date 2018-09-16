@@ -1,5 +1,5 @@
 --- title: QUESTIONS FRÉQUENTES (FAQ) description: Foire aux questions keywords:
-  - FAQ --- ## Généraliste
+  - FAQ --- ## Questions généralistes
 
 **Quelle différence entre fédération et confédération ?**
 
@@ -10,43 +10,45 @@ exemple. Dans tous les pays actuels (y compris les fédérations comme l'Allemag
 ou les États-Unis), il y a toujours une part importante de l’impôt (en fonction
 du degré de décentralisation) qui consiste en un versement direct des citoyens à
 l'État national, puis en un reversement de l'État aux régions. Dans une
-confédération cela est exclu. Dans une confédération, l’impôt est collecté par
-les régions autonomes qui mettent dans un pot commun confédéral une part qui
-sert au fonctionnement confédéral. Il n'y a donc pas d’impôt national ! Ce n'est
-plus aux régions de mendier à l'État pour avoir plus de moyens mais c'est à
-l'État de mendier aux régions s'il veut augmenter son budget. Ainsi, les
-régions, et donc les structures locales plus proches des citoyens sont
-souveraines sur les finances ce qui fait qu'elles ont un réel poids dans les
-négociations avec l'État confédéral.
+confédération cela est exclu : l’impôt est collecté par les régions autonomes
+qui mettent dans un pot commun confédéral une part qui sert au fonctionnement
+confédéral. Il n'y a donc pas d’impôt national ! Ce n'est plus aux régions de
+mendier à l'État pour avoir plus de moyens mais c'est à l'État de mendier aux
+régions s'il veut augmenter son budget. Ainsi les régions, et donc les
+structures locales les plus proches des citoyens, sont souveraines sur les
+finances, ce qui fait qu'elles ont un réel poids dans les négociations avec
+l'État confédéral.
 
 **Pourquoi se concentrer sur le confédéralisme et le référendum d’initiative
 populaire ?**
 
 Pour être véritablement en démocratie, il faut que :
 
-* les structures du pouvoir soient les plus proches possible des citoyens (ce
-  que permet le confédéralisme) ;
+* les structures du pouvoir soient le plus proche possible des citoyens (ce que
+  permet le confédéralisme) ;
 * le pouvoir soit toujours contrôlable par les citoyens (ce que permet le
-  référendum d'initiative populaire) ; 
+  référendum d'initiative populaire) ;
 * les lois puissent être faites directement par les citoyens sans recourir à des
-  élus (ce que permet le référendum d'initiative populaire).Ainsi, il ne peut y
-  avoir d’authentique démocratie sans démocratie locale et directe. 
+  élus (ce que permet le référendum d'initiative populaire).
+
+Ainsi, il ne peut y avoir d’authentique démocratie sans démocratie locale et
+directe.
 
 **Concernant le confédéralisme :**
 
 Nous soutenons la création d'une confédération française de régions autonomes,
-où les entités disposant du plus fort pouvoir sont locales (municipale et
-régionale) et donc effectivement plus proche des citoyens qu'une entité
+où les entités disposant du plus fort pouvoir sont locales (municipales et
+régionales), et donc effectivement plus proche des citoyens qu'une entité
 centralisée (l'État français).
 
 L'organisation confédérale repose sur trois principes :
 
-1. souveraineté et pouvoir politique sont délégués par les entités confédérées à
-la République nationale – et non l'inverse ;
+1. la souveraineté et le pouvoir politique sont délégués par les entités
+confédérées à la République nationale – et non l'inverse ;
 2. en vertu du premier principe, la collecte de l'impôt et le contrôle des
 forces de sécurité reviennent par essence aux entités confédérées ;
-3. la délégation de compétences à l'entité confédérale est déterminée par le
-conseil des entités confédérées et peut être retirée en tout temps.
+3. la délégation de compétences à l'entité confédérale est déterminée par les
+entités confédérées, et peut être retirée à tout moment.
 
 La confédération est compétente sur les enjeux de coordination entre entités
 fédérées uniquement dans la mesure où elle obtient l'assentiment des régions
@@ -61,18 +63,18 @@ l’adoption ou le rejet du projet de loi. Dans ce cadre, la présence d'élu.e.
 de représentant.e.s ne se justifie que par le traitement des affaires courantes,
 leurs activités étant ainsi sous le contrôle permanent des citoyens. La
 démocratie directe est non seulement plus juste mais aussi plus efficace
-économiquement. 
+économiquement.
 
 ## **Critiques de la démocratie directe**
 
 **Adopter la démocratie directe c’est irréaliste !**
 
-C'est une objection fréquemment formulée . Et pourtant, tout près de la France,
+C'est une objection fréquemment formulée. Et pourtant, tout près de la France,
 la Suisse fonctionne avec ce système depuis plus de 150 ans. C’est aussi le cas
-aux Etats-Unis où de nombreux Etats la pratiquent depuis la fin du dix-neuvième
+aux États-Unis où de nombreux États la pratiquent depuis la fin du dix-neuvième
 siècle ou le début du vingtième. Les États-Unis ont la particularité d'avoir un
 système très anti-démocratique à l'échelle fédérale mais très démocratique à
-l'échelle des États. Et les très nombreuses expériences démocratie directe au
+l'échelle des États. Et les très nombreuses expériences de démocratie directe au
 niveau de certains États montrent depuis deux siècles que ce système est très
 performant et loin d'amener le chaos ou la dictature. La Suisse figure par
 exemple dans les meilleurs classements en matière de transparence ou de lutte
@@ -80,20 +82,20 @@ contre la corruption.
 
 **La démocratie directe n’est pas applicable à de grands pays.**
 
-8 millions de Suisses c’est peu par rapport au 60 millions de Français. On peut
+8 millions de Suisses c’est peu par rapport aux 60 millions de Français. On peut
 donc penser que la démocratie directe ne peut marcher que dans les petits pays.
 C’est en partie vrai, car la démocratie en général fonctionne souvent mieux à
 petite échelle quand les décisions sont prises au plus près des personnes
-concernées. Néanmoins de contre-exemples existent. La Californie – qui comme
-tous états étatsuniens a une très forte autonomie – a régulièrement recours à la
-démocratie directe. Elle compte près de 40 millions d’habitants, soit les deux
-tiers de la France.
+concernées. Néanmoins des contre-exemples existent. La Californie – qui comme
+tous les États étatsuniens a une très forte autonomie – a régulièrement recours
+à la démocratie directe. Elle compte près de 40 millions d’habitants, soit les
+deux tiers de la France.
 
 **Les français ne sont pas prêts pour la démocratie directe.**
 
 L'un de nos amis, proche d'un membre de la famille royale du Swaziland – qui est
 une monarchie absolue – nous a rapporté que lors d'une discussion, ce membre de
-la famille royale a déclaré que la démocratie c'était bien mais que son peuple
+la famille royale a déclaré que la démocratie c'était bien, mais que son peuple
 n’était pas prêt pour la démocratie. Son argument est similaire à celui qu’on
 soulève parfois en France pour la démocratie directe. Lorsque l'on bénéficie
 d’un système injuste, on pense toujours que nos concitoyens ne sont pas prêts à
@@ -106,8 +108,8 @@ d’injustes privilèges.
 
 Cet argument est faux. Dans les systèmes basés sur la démocratie, les personnes
 sont aussi mieux informés, et plus aptes à traiter des enjeux publics. La
-performance économique de ces Etats est, en moyenne meilleure et la conscience
-civique se développe davantage. Mais, quand bien même cela serait vrai, il
+performance économique de ces États est en moyenne meilleure et la conscience
+civique s'y développe davantage. Mais, quand bien même cela serait vrai, il
 faudrait alors conclure qu’il faudrait supprimer toutes les élections, incluant
 celle des représentants. « Le peuple vote mal » était justement l’objection des
 monarchistes à la démocratie. Pour ceux qui ont la cohérence de rejeter ainsi
@@ -116,14 +118,15 @@ proposer.
 
 **Les droits des minorités sont en danger avec la démocratie directe.**
 
-Certains États (notamment au États-Unis) où la démocratie directe est en partie
+Certains États (notamment les États-Unis) où la démocratie directe est en partie
 instaurée peuvent effectivement avoir tendance à adopter plus facilement des
 lois anti-minoritées (comme par exemple l'interdiction du mariage homosexuel)
 que des États sans démocratie directe. Cependant, cela dépend des modalités
 d'organisation de la démocratie directe dans ces États. On connaît les
-paramètres structuraux qui permettent d'éviter cela, comme en Suisse.
+paramètres structuraux qui permettent d'éviter cela, comme c'est le cas en
+Suisse.
 
-**Aucune avancé sociale n’aurait eu lieu avec la démocratie directe**.
+**Aucune avancée sociale n’aurait eu lieu avec la démocratie directe**.
 
 Un vote conservateur en démocratie directe existe bel et bien. Mais il ne faut
 pas oublier les progrès sociaux qu’elle a permis de développer. Certains
@@ -133,7 +136,7 @@ en 1938. Aux États-Unis, l’Oregon a aboli la peine de mort par référendum
 d’initiative populaire en… 1914. Par ailleurs, les italiens ont voté en faveur
 du droit au divorce et à l’avortement dans les années soixante-dix. Au Colorado,
 les progrès sociaux ont largement été développés par la démocratie directe, de
-la journée de 8 heures en 1912 à l’augmentation du salaire minimum en 2016. A
+la journée de 8 heures en 1912 à l’augmentation du salaire minimum en 2016. À
 cela s’ajoute le fait que lorsque de telles avancées ont été débattues et
 votées, rares sont les personnes souhaitant y renoncer par la suite.
 
@@ -143,11 +146,12 @@ Cet argument est plausible seulement en temps de guerre. Dans la vie courante,
 c’est exactement l’inverse qui est vrai. Un leader fort prend beaucoup de
 décisions peu légitimes. Or, un système est meilleur lorsqu’il y a peu de
 décisions – que les citoyens comprennent et maîtrisent pendant un certain temps
-– et très légitimes – ce qui évite le recours, coûteux mais parfois nécessaire
-aux grèves, sabotages et autres formes de désobéissance civile. A ce titre, même
+– et très légitimes – ce qui évite le recours, coûteux mais parfois nécessaire,
+aux grèves, sabotages et autres formes de désobéissance civile. À ce titre, même
 les systèmes parlementaires les plus instables sont meilleurs que ceux guidés
 par un leader fort. Mais les démocraties directes ont l’avantage de pouvoir
-donner ou retirer les pouvoir à un leader fort, comme la Suisse le fit en 1939.
+donner ou retirer les pouvoirs à un leader fort, comme la Suisse l'a fait en
+1939.
 
 **En démocratie directe on peut facilement manipuler les débats**.
 
@@ -162,7 +166,7 @@ favorise l’organisation de débats collectifs décentralisés : pensons, par
 exemple, à l’expérience du référendum sur le projet de constitution européenne
 de 2005.
 
-## **Critique du confédéralisme**
+## Critiques du confédéralisme
 
 **Le fédéralisme repose sur le refus de partager avec les autres ses
 richesses.**
@@ -173,7 +177,7 @@ fixer et prélever l’impôt ne signifie pas qu’elle va se soustraire à son 
 de solidarité avec d’autres régions. En Suisse, les régions transmettent une
 partie de leur budget au niveau confédéral, et une redistribution entre régions
 est opérée. En Espagne, les Pays Basques sont la seule région qui collecte ses
-propres impôts. Mais elle ne contribue pas moins que les autres à l’Etat
+propres impôts. Mais elle ne contribue pas moins que les autres à l’État
 Central.
 
 **Le fédéralisme instaure une compétition fiscale où chaque région voudra
@@ -184,7 +188,7 @@ internationale. Il s’agit d’une compétition parce qu’il n’y a aucun org
 qui permette aux pays de coopérer sur le plan fiscal. Dans les pays confédéraux,
 les différentes régions sont réunies en assemblées pour, justement, lutter
 contre la compétition fiscale. La région qui a la plus faible fiscalité ne veut
-certes pas que les autres régions baissent encore leur fiscalité l’obligeant
+certes pas que les autres régions baissent encore leur fiscalité, l’obligeant
 ainsi à baisser encore la sienne. Elle aura tout intérêt à dédommager les autres
 régions afin qu’elles ne baissent pas leur fiscalité. Cette « coopération
 fiscale » permet d’avoir des systèmes de taxation différents en évitant la
@@ -198,7 +202,7 @@ petits pays sont plus ouverts culturellement et économiquement sur le monde que
 les grands pays. Ils excluent moins les nouveaux arrivants en vertus de critères
 aléatoires. Les habitants y connaissent plus de langues étrangères, et
 s’informent plus de ce qui se passe. Pris dans leurs rêves de grandeur, les
-grand pays, ne se préoccupent que d’eux-mêmes. 
+grand pays ne se préoccupent que d’eux-mêmes.
 
 **Pourquoi vouloir se diviser plutôt que s’unir ?**
 
@@ -217,15 +221,15 @@ fédéraux,  – comme l’Allemagne, les Etats-Unis, la Suisse, le Canada. Les 
 pays centralisés sont plus pauvres, à moins qu’ils aient une bonne armée pour
 mettre la main sur les ressources d’autres pays. Mais pour ceux qui
 s’inquiéteraient militairement, la plus grande puissance mondiale est un pays
-fédéral. 
+fédéral.
 
 **Le fédéralisme accroît les inégalités entre territoires.**
 
-Là encore, c’est une idée répandue mais fausse. En réalité, l’Ile de France – où
+Là encore, c’est une idée répandue mais fausse. En réalité, l’Île de France – où
 la répartition des ressources collectées dans les régions s’opère - est plus
 riche que la somme de toutes les autres régions. Cela est normal : celui qui
 répartit aura intérêt à se servir au passage. Les inégalités entre départements
-sont en France légèrement plus élevées qu’aux Etats-Unis, et bien plus élevées
+sont en France légèrement plus élevées qu’aux États-Unis, et bien plus élevées
 que celles entre cantons suisses. Au final, la seule grande différence est que
 dans un état centralisé, les inégalités entre territoires sont moins débattues.
 
@@ -242,8 +246,8 @@ dauphins du roi.
 **Quels sont les formes de référendum d’initiative populaire ?**
 
 Au moins trois outils sont à distinguer : le référendum obligatoire, le
-référendum facultatif ou abrogatif, le référendum issu d'une initiative
-populaire. (Explications extraites de Wikipédia) 
+référendum facultatif ou abrogatif, et le référendum issu d'une initiative
+populaire. (Explications extraites des articles Wikipédia sur ces outils)
 
 * Le **référendum obligatoire** est la procédure qui soumet obligatoirement au
   scrutin populaire un objet en principe après son adoption par l'organe
@@ -264,9 +268,9 @@ populaire. (Explications extraites de Wikipédia)
   (référendum « financier »).
 * Le **référendum facultatif, abrogatif** ou **veto** est un mécanisme de la
   démocratie directe en Suisse et au Liechtenstein qui permet de s'opposer à
-  l'entrée en vigueur d'une nouvelle loi.  alors qu’une initiative qui prévoit
+  l'entrée en vigueur d'une nouvelle loi, alors qu’une initiative qui prévoit
   une véritable création de texte sera appelée _initiative_. Dans certains États
-  le nombre de signatures requises pour un _veto referendum_ est moins élevé que
+  le nombre de signatures requises pour un _référendum veto_ est moins élevé que
   pour une initiative. Par exemple en Italie, il est le seul mode d’initiative
   populaire existant, le peuple ne pouvant pas proposer de texte rédigé. En
   Suisse, l'introduction et la révision des lois fédérales au sens formel sont
@@ -280,7 +284,7 @@ populaire. (Explications extraites de Wikipédia)
   être soumise au référendum si huit cantons en font la demande. Le seuil de
   huit cantons a été fixé en 1848 de manière à empêcher que les sept cantons du
   Sonderbund soient en mesure d'exiger seuls un référendum. Si personne ne
-  demande le référendum ou si la récolte de signature échoue, la loi entre en
+  demande le référendum ou si la récolte de signatures échoue, la loi entre en
   vigueur sans référendum. Tous les cantons suisses mettent également à
   disposition de leurs citoyens l'outil du référendum facultatif et certains
   cantons suisses vont jusqu'à lui soumettre également, par les systèmes de
@@ -300,7 +304,7 @@ populaire. (Explications extraites de Wikipédia)
   éviter la lassitude des électeurs et limiter les coûts, les référendums sont
   généralement regroupés lors d’un même scrutin, voire le même jour que les
   élections. Par exemple en Suisse, les référendums sont organisés quatre
-  dimanche par an durant lesquels le citoyen peut être amener à voter à la fois
+  dimanches par an durant lesquels le citoyen peut être amener à voter à la fois
   sur des référendums fédéraux, cantonaux ou communaux et des élections locales
   ou fédérales.
 

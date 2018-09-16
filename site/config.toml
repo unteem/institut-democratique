@@ -46,7 +46,7 @@ paginate = 10
 [[menu.main]]
     name = "Nous contacter / Nous rejoindre"
     identifier = "contact"
-    url  = "https://parlement.democratique.org"
+    url  = "#"
     weight = 7
 
 #[[menu.main]]

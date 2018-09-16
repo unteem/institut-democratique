@@ -44,9 +44,9 @@ organisations de ce type. Nous voulons donc impulser cela en France, dans un
 cadre festif, joyeux et convivial. Le système politique dans lequel nous vivons
 ne semble plus convenir à grand monde. Les impôts augmentent sans que la justice
 sociale ne s’améliore. Les inégalités se creusent alors que la liberté,
-individuelle et collective diminue. Les initiatives collectives sont étouffées,
+individuelle et collective, diminue. Les initiatives collectives sont étouffées,
 les entrepreneurs et travailleurs sont malmenés et l’accès de chacune et de
-chacun aux services de base se dégradent. Le « modèle » social français produit
+chacun aux services de base se dégradent. Le « modèle » social français produit
 de plus en plus d’exclu.e.s : jeunes, personnes âgées, personnes sans emploi,
 habitant.e.s des quartiers relégués. La capacité des personnes à contrôler leur
 vie se réduit. Les crises et les contraintes internationales que pointent médias
@@ -60,10 +60,10 @@ mobilisent une minorité d’électeurs et qui fait de son mieux pour verrouille
 système politique. Seule une petite élite économique a accès à cette oligarchie.
 La grande majorité des gens n’a aucune prise sur les règles du système et se
 retrouve, passive, à payer des impôts, se battre contre la bureaucratie et à
-lutter, individuellement pour son avenir. Cet éloignement du pouvoir politique
+lutter individuellement pour son avenir. Cet éloignement du pouvoir politique
 et économique nous fait perdre conscience de nos droits les plus fondamentaux.
 Toute contestation exige une telle dépense d’énergie pour de si médiocres
-résultats, qu’il est devenu raisonnable d’être fataliste.
+résultats qu’il est devenu raisonnable d’être fataliste.
 
 Dans une véritable démocratie, les gens sont logiquement proches du pouvoir et
 peuvent le contrôler facilement. Exiger d’un maire qu’il rende des comptes est

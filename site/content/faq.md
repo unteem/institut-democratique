@@ -1,5 +1,11 @@
---- title: QUESTIONS FRÉQUENTES (FAQ) description: Foire aux questions keywords:
-  - FAQ --- ## Questions généralistes
+---
+title: QUESTIONS FRÉQUENTES (FAQ)
+description: Foire aux questions
+keywords:
+  - FAQ
+---
+
+## Questions généralistes
 
 **Quelle différence entre fédération et confédération ?**
 

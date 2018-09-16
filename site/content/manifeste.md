@@ -1,5 +1,8 @@
-+++ title = "Que proposons-nous ?" description = "Notre manifeste et notre
-charte" keywords = ["Manifeste","Charte"] +++
++++
+title = "Que proposons-nous ?"
+description = "Notre manifeste et notre charte"
+keywords = ["Manifeste","Charte"]
++++
 
 ## Charte
 

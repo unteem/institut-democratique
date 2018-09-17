@@ -21,7 +21,7 @@ qui mettent dans un pot commun confédéral une part qui sert au fonctionnement
 confédéral. Il n'y a donc pas d’impôt national ! Ce n'est plus aux régions de
 mendier à l'État pour avoir plus de moyens mais c'est à l'État de mendier aux
 régions s'il veut augmenter son budget. Ainsi les régions, et donc les
-structures locales les plus proches des citoyens, sont souveraines sur les
+structures locales les plus proches des citoyennes et des citoyens, sont souveraines sur les
 finances, ce qui fait qu'elles ont un réel poids dans les négociations avec
 l'État confédéral.
 
@@ -32,9 +32,9 @@ Pour être véritablement en démocratie, il faut que :
 
 * les structures du pouvoir soient le plus proche possible des citoyens (ce que
   permet le confédéralisme) ;
-* le pouvoir soit toujours contrôlable par les citoyens (ce que permet le
+* le pouvoir soit toujours contrôlable par les citoyen·ne·s (ce que permet le
   référendum d'initiative populaire) ;
-* les lois puissent être faites directement par les citoyens sans recourir à des
+* les lois puissent être faites directement par les citoyen·ne·s sans recourir à des
   élus (ce que permet le référendum d'initiative populaire).
 
 Ainsi, il ne peut y avoir d’authentique démocratie sans démocratie locale et
@@ -44,7 +44,7 @@ directe.
 
 Nous soutenons la création d'une confédération française de régions autonomes,
 où les entités disposant du plus fort pouvoir sont locales (municipales et
-régionales), et donc effectivement plus proche des citoyens qu'une entité
+régionales), et donc effectivement plus proche des citoyen·ne·s qu'une entité
 centralisée (l'État français).
 
 L'organisation confédérale repose sur trois principes :
@@ -65,8 +65,8 @@ pour ce faire.
 Nous soutenons le recours à la démocratie directe. Son outil principal est le
 référendum d'initiative populaire. Selon celui-ci, une pétition moyennant un
 certain nombre de signatures produit automatiquement un référendum qui entraîne
-l’adoption ou le rejet du projet de loi. Dans ce cadre, la présence d'élu.e.s et
-de représentant.e.s ne se justifie que par le traitement des affaires courantes,
+l’adoption ou le rejet du projet de loi. Dans ce cadre, la présence d'élu·e·s et
+de représentant·e·s ne se justifie que par le traitement des affaires courantes,
 leurs activités étant ainsi sous le contrôle permanent des citoyens. La
 démocratie directe est non seulement plus juste mais aussi plus efficace
 économiquement.
@@ -104,7 +104,7 @@ une monarchie absolue – nous a rapporté que lors d'une discussion, ce membre 
 la famille royale a déclaré que la démocratie c'était bien, mais que son peuple
 n’était pas prêt pour la démocratie. Son argument est similaire à celui qu’on
 soulève parfois en France pour la démocratie directe. Lorsque l'on bénéficie
-d’un système injuste, on pense toujours que nos concitoyens ne sont pas prêts à
+d’un système injuste, on pense toujours que nos concitoyen·ne·s ne sont pas prêt·e·s à
 vivre dans un système juste. Méfions-nous de cet argument : ceux qui l’utilisent
 sont les seuls à ne pas être prêts, souvent parce qu’ils disposent, eux,
 d’injustes privilèges.
@@ -113,7 +113,7 @@ d’injustes privilèges.
 être adoptées.**
 
 Cet argument est faux. Dans les systèmes basés sur la démocratie, les personnes
-sont aussi mieux informés, et plus aptes à traiter des enjeux publics. La
+sont aussi mieux informées, et plus aptes à traiter des enjeux publics. La
 performance économique de ces États est en moyenne meilleure et la conscience
 civique s'y développe davantage. Mais, quand bien même cela serait vrai, il
 faudrait alors conclure qu’il faudrait supprimer toutes les élections, incluant
@@ -162,11 +162,11 @@ donner ou retirer les pouvoirs à un leader fort, comme la Suisse l'a fait en
 **En démocratie directe on peut facilement manipuler les débats**.
 
 C’est bien plus difficile de le faire lors d’un référendum que lors d’une
-élection de représentants, comme par exemple l’élection présidentielle
+élection de représentant·e·s, comme par exemple l’élection présidentielle
 française. La raison est que dans un référendum le vote porte sur un seul enjeu
 exprimé sous la forme d’une proposition précise. Lors d’une élection
 présidentielle, en revanche, les enjeux sont nombreux, la façon de poser les
-problèmes dépend de chaque candidat et chaque journaliste. Un terrain très
+problèmes dépend de chaque candidat·e et chaque journaliste. Un terrain très
 fertile à la manipulation. S’ajoute à cela le fait que chaque référendum
 favorise l’organisation de débats collectifs décentralisés : pensons, par
 exemple, à l’expérience du référendum sur le projet de constitution européenne
@@ -205,10 +205,10 @@ course vers le bas qui existe au niveau mondial.
 En fait, c’est tout le contraire qui arrive. Plus l’unité politique est petite,
 et basée sur une identité politique, plus elle est ouverte sur le monde. Les
 petits pays sont plus ouverts culturellement et économiquement sur le monde que
-les grands pays. Ils excluent moins les nouveaux arrivants en vertus de critères
-aléatoires. Les habitants y connaissent plus de langues étrangères, et
+les grands pays. Ils excluent moins les nouveaux et nouvelles arrivant·e·s en vertus de critères
+aléatoires. Les habitant·e·s y connaissent plus de langues étrangères, et
 s’informent plus de ce qui se passe. Pris dans leurs rêves de grandeur, les
-grand pays ne se préoccupent que d’eux-mêmes.
+grands pays ne se préoccupent que d’eux-mêmes.
 
 **Pourquoi vouloir se diviser plutôt que s’unir ?**
 
@@ -223,17 +223,17 @@ plus équitables et contrôlables.
 
 Si on parle de compétition économique, les pays les plus prospères ont en commun
 d’être petits, comme le Luxembourg, la Norvège ou les Pays Bas, ou, souvent,
-fédéraux,  – comme l’Allemagne, les Etats-Unis, la Suisse, le Canada. Les grands
+fédéraux – comme l’Allemagne, les Etats-Unis, la Suisse, le Canada. Les grands
 pays centralisés sont plus pauvres, à moins qu’ils aient une bonne armée pour
-mettre la main sur les ressources d’autres pays. Mais pour ceux qui
+mettre la main sur les ressources d’autres pays. Mais pour celles et ceux qui
 s’inquiéteraient militairement, la plus grande puissance mondiale est un pays
 fédéral.
 
 **Le fédéralisme accroît les inégalités entre territoires.**
 
 Là encore, c’est une idée répandue mais fausse. En réalité, l’Île de France – où
-la répartition des ressources collectées dans les régions s’opère - est plus
-riche que la somme de toutes les autres régions. Cela est normal : celui qui
+la répartition des ressources collectées dans les régions s’opère — est plus
+riche que la somme de toutes les autres régions. Cela est normal : l'entité qui
 répartit aura intérêt à se servir au passage. Les inégalités entre départements
 sont en France légèrement plus élevées qu’aux États-Unis, et bien plus élevées
 que celles entre cantons suisses. Au final, la seule grande différence est que
@@ -241,7 +241,7 @@ dans un état centralisé, les inégalités entre territoires sont moins débatt
 
 **Le Dauphiné a une histoire très liée à la monarchie**.
 
-Chacun est libre d’interpréter l’histoire en mettant en avant tel ou tel aspect.
+Chacun·e est libre d’interpréter l’histoire en mettant en avant tel ou tel aspect.
 En ce qui nous concerne, la défense des représentants locaux contre les soldats
 nationaux lors de la journée des tuiles est l’acte fondateur de l’identité
 dauphinoise, et cela importe beaucoup plus que les comtes d’Albon et les

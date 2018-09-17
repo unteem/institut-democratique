@@ -7,7 +7,7 @@ keywords = ["Manifeste","Charte"]
 ## Charte
 
 Le mouvement pour un Dauphiné démocratique (DD) vise à rendre aux citoyennes et
-aux citoyens dauphinois.e.s le contrôle de leur vie, en les rapprochant du
+aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du
 pouvoir et en les dotant d'outils pour le contrôler. Conscient que ces objectifs
 ne s’obtiennent pas par les pouvoirs locaux, DD vise à promouvoir le
 confédéralisme et la démocratie directe du niveau municipal au niveau national.
@@ -50,8 +50,8 @@ sociale ne s’améliore. Les inégalités se creusent alors que la liberté,
 individuelle et collective, diminue. Les initiatives collectives sont étouffées,
 les entrepreneurs et travailleurs sont malmenés et l’accès de chacune et de
 chacun aux services de base se dégradent. Le « modèle » social français produit
-de plus en plus d’exclu.e.s : jeunes, personnes âgées, personnes sans emploi,
-habitant.e.s des quartiers relégués. La capacité des personnes à contrôler leur
+de plus en plus d’exclu·e·s : jeunes, personnes âgées, personnes sans emploi,
+habitant·e·s des quartiers relégués. La capacité des personnes à contrôler leur
 vie se réduit. Les crises et les contraintes internationales que pointent médias
 et élites ne sont pas seules en cause : c’est tout un système politique qui est
 à revoir. Nous savons que plus les institutions sont démocratiques, plus elles
@@ -69,11 +69,11 @@ Toute contestation exige une telle dépense d’énergie pour de si médiocres
 résultats qu’il est devenu raisonnable d’être fataliste.
 
 Dans une véritable démocratie, les gens sont logiquement proches du pouvoir et
-peuvent le contrôler facilement. Exiger d’un maire qu’il rende des comptes est
-évident alors que lui entendre répondre : « ce n’est pas ma faute, c’est
+peuvent le contrôler facilement. Exiger d’un·e maire qu’il ou elle rende des comptes est
+évident alors que l'entendre répondre : « ce n’est pas ma faute, c’est
 l’Europe, le Gouvernement, la Région, le Département, la Métro (Grenoble-Alpes
 Métropole, regroupant 49 communes dont Grenoble) qui décident » n’est pas
-acceptable. Dans une véritable démocratie, un préfet, non-élu, n’a pas le
+acceptable. Dans une véritable démocratie, un·e préfet·e, non élu·e, n’a pas le
 pouvoir de s’opposer à ce que les citoyennes et les citoyens dirigent par
 référendum, comme cela est arrivé à Grenoble en 2018. Dans une véritable
 démocratie, on empêche les représentantes et les représentants d’agir contre la
@@ -85,7 +85,7 @@ infrastructures inutiles, étouffent des initiatives individuelles ou
 collectives. Vivre en démocratie c’est refuser de croire aux vertus d’un
 dictateur bienveillant et extralucide et se faire entendre dire que le peuple
 français n’est pas assez éduqué ou vertueux pour s’auto-administrer. Si les
-institutions sont inclusives, les représentants sont obligés de rendre des
+institutions sont inclusives, les représentant·e·s sont obligé·e·s de rendre des
 comptes et les citoyen.ne.s peuvent changer les règles.
 
 
@@ -127,8 +127,8 @@ sa forme la plus connue est le référendum d’initiative populaire. Une pétit
 peut proposer ou annuler une loi, un référendum peut valider ou invalider la
 proposition. A aucun moment les représentants ne peuvent contrôler ce processus.
 Ce dispositif permet non seulement de limiter le pouvoir des élus, mais
-également créer une pression rappelant aux élu.e.s que les seul.e.s à disposer
-d’un pouvoir inconditionnel sont les habitant.e.s.
+également créer une pression rappelant aux élu·e·s que les seul·e·s à disposer
+d’un pouvoir inconditionnel sont les habitant·e·s.
 
 Confédéralisme et démocratie directe sont les deux piliers de nos
 revendications. Ils contribuent à faire de la France un pays plus transparent,
@@ -144,12 +144,12 @@ Le centralisme français enivre de pouvoir le vainqueur des élections nationale
 qui, dès qu’il l’obtient, ne voudra plus s’en voir privé. Conscients de ce
 risque, notre mouvement se situe sur une échelle régionale et se limite à la
 défense de ses deux principes : confédéralisme et démocratie. Charge aux
-habitant.e.s de s’organiser ensuite pour défendre leurs intérêts, projets et
+habitant·e·s de s’organiser ensuite pour défendre leurs intérêts, projets et
 rêves. C’est en intégrant une fédération des partis régionalistes – la
 fédération Régions et Peuples Solidaires – que nous envisageons de prendre le
-pouvoir au niveau national. Ainsi, on rappellera toujours à notre candidat que
+pouvoir au niveau national. Ainsi, on rappellera toujours à notre candidat·e que
 nous sommes là pour diluer le pouvoir, le donner aux régions et le rapprocher
-des citoyens. Nous savons que régions et habitant.e.s sont capables de
+des citoyens. Nous savons que régions et habitant·e·s sont capables de
 s’auto-gouverner de façon autonome et légitime tout en étant inclusives et
 solidaires parce que de telles organisations existent déjà dans le monde de
 manière pérenne.

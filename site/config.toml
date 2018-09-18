@@ -27,10 +27,15 @@ paginate = 10
 #    url  = "/blog/"
 #    weight = 2
 
-  [[menu.main]]
+[[menu.main]]
     Name = "Que proposons-nous ?"
     URL = "/manifeste/"
     Weight = 2
+
+[[menu.main]]
+    name = "Signez la pétition !"
+    url  = "/petition/"
+    weight = 3
 
 [[menu.main]]
     name = "Questions fréquentes (FAQ)"
@@ -44,9 +49,9 @@ paginate = 10
 
 
 [[menu.main]]
-    name = "Nous contacter / Nous rejoindre"
+    name = "Nous contacter"
     identifier = "contact"
-    url  = "#"
+    url  = "/contact/"
     weight = 7
 
 #[[menu.main]]
@@ -106,7 +111,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = ""
+    #email = ""
 
     about_us = "<p>Notre mouvement vise à rendre aux citoyennes et aux citoyens du Dauphiné le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d'outils pour le contrôler. Conscient que ces objectifs ne s’obtiennent pas par les pouvoirs locaux, Dauphiné Démocratique vise à promouvoir le confédéralisme et la démocratie directe du niveau municipal au national.</p>"
     copyright = "Mouvement pour un Dauphiné démocratique"
@@ -156,7 +161,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Dauphiné démocratique dans les médias"
-    subtitle = """Vous êtes journaliste et vous voulez parler de nous ou nous rencontrer ? Ecrivez-nous par <a href="https://parlement.democratique.org/" >ici</a>."""
+    subtitle = """Vous êtes journaliste et vous voulez parler de nous ou nous rencontrer ? Ecrivez-nous par <a href="/contact/" >ici</a>."""
 
 [params.see_more]
     enable = true

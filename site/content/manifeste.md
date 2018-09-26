@@ -6,11 +6,7 @@ keywords = ["Manifeste","Charte"]
 
 ## Charte
 
-Le mouvement pour un Dauphiné démocratique (DD) vise à rendre aux citoyennes et
-aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du
-pouvoir et en les dotant d'outils pour le contrôler. Conscient que ces objectifs
-ne s’obtiennent pas par les pouvoirs locaux, DD vise à promouvoir le
-confédéralisme et la démocratie directe du niveau municipal au niveau national.
+Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d'outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national.
 
 Les engagements fondamentaux du mouvement sont au nombre de six :
 

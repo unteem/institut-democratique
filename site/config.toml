@@ -33,14 +33,14 @@ paginate = 10
     Weight = 2
 
 [[menu.main]]
-    name = "Signez la pétition !"
+    name = "Je signe pour soutenir"
     url  = "/petition/"
-    weight = 3
+    weight = 5
 
 [[menu.main]]
-    name = "Questions fréquentes (FAQ)"
+    name = "Les questions fréquentes"
     url  = "/faq/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Boutique"
@@ -90,7 +90,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "Dauphiné Démocratique"
     defaultKeywords = ["Confédéralisme", "Démocratie directe", "Dauphiné"]
-    defaultDescription = "Mouvement pour un Dauphiné démocratique"
+    defaultDescription = "Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = ""
@@ -113,7 +113,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     #email = ""
 
-    about_us = "<p>Notre mouvement vise à rendre aux citoyennes et aux citoyens du Dauphiné le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d'outils pour le contrôler. Conscient que ces objectifs ne s’obtiennent pas par les pouvoirs locaux, Dauphiné Démocratique vise à promouvoir le confédéralisme et la démocratie directe du niveau municipal au national.</p>"
+    about_us = "<p>Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national.</p>"
     copyright = "Mouvement pour un Dauphiné démocratique"
 
     # Format dates with Go's time formatting
@@ -167,7 +167,7 @@ paginate = 10
     enable = true
     icon = "fa fa-flag"
     title = "Notre charte"
-    subtitle = "Le mouvement pour un Dauphiné Démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d'outils pour le contrôler. Conscient que ces objectifs ne s’obtiennent pas par les pouvoirs locaux, Dauphiné Démocratique vise à promouvoir le confédéralisme et la démocratie directe du niveau municipal au national."
+    subtitle = "Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national."
     link_url = "/manifeste/"
     link_text = "Voir les six engagements fondamentaux de notre charte"
 

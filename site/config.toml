@@ -33,7 +33,7 @@ paginate = 10
     Weight = 2
 
 [[menu.main]]
-    name = "Je signe pour soutenir"
+    name = "Je signe la lettre ouverte"
     url  = "/petition/"
     weight = 5
 

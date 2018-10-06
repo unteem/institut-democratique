@@ -28,17 +28,17 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
-    Name = "Que proposons-nous ?"
+    Name = "Le projet"
     URL = "/manifeste/"
     Weight = 2
 
 [[menu.main]]
-    name = "Je signe la lettre ouverte"
+    name = "Je signe !"
     url  = "/petition/"
     weight = 5
 
 [[menu.main]]
-    name = "Les questions fréquentes"
+    name = "Des questions ?"
     url  = "/faq/"
     weight = 4
 
@@ -49,13 +49,13 @@ paginate = 10
 
 
 [[menu.main]]
-    name = "Nous contacter"
+    name = "Contact"
     identifier = "contact"
     url  = "/contact/"
     weight = 7
 
 #[[menu.main]]
-#    name = "Nous contacter"
+#    name = "Contact"
 #    parent = "contact"
 #    url  = "/contact/"
 #    weight = 1

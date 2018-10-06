@@ -2,4 +2,4 @@
 title = "Contact"
 +++
 
-{{< typeform "u3YLjW" "democratique" "800px" "100%" >}}
+{{< typeform "u3YLjW" "democratique" "450px" "100%" >}}

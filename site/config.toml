@@ -18,11 +18,6 @@ paginate = 10
 # Main menu
 
 #[[menu.main]]
-#    name = "Accueil"
-#    url  = "/"
-#    weight = 1
-
-#[[menu.main]]
 #    name = "Actualités"
 #    url  = "/blog/"
 #    weight = 2
@@ -33,14 +28,14 @@ paginate = 10
     Weight = 2
 
 [[menu.main]]
-    name = "Je signe !"
+    name = "Lettre ouverte"
     url  = "/petition/"
-    weight = 5
+    weight = 1
 
 [[menu.main]]
-    name = "Des questions ?"
+    name = "FAQ"
     url  = "/faq/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Boutique"
@@ -54,17 +49,6 @@ paginate = 10
     url  = "/contact/"
     weight = 7
 
-#[[menu.main]]
-#    name = "Contact"
-#    parent = "contact"
-#    url  = "/contact/"
-#    weight = 1
-
-#[[menu.main]]
-#    name = "Dossier de presse"
-#    parent = "contact"
-#    url  = "/presse/"
-#    weight = 2
 
 # Top bar social links menu
 

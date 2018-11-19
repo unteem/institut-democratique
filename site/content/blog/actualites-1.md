@@ -1,7 +1,7 @@
 +++
 title = "Les enseignements de la Nouvelle Calédonie pour les territoires français"
 date = "2018-11-19T12:40:00+01:00"
-author = "Clara Hegger"
+author = "Clara Egger"
 tags = ["Nouvelle Calédonie","Confédéralisme","Referendum"]
 categories = ["Actualités"]
 banner = "img/articles/drapeau-kanak.jpg"

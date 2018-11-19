@@ -20,8 +20,8 @@ d'auto-détermination piloté depuis par Paris et comme  l'invitation à imagine
 d'autres modalités de pleine souveraineté ne passant pas nécessairement par
 l'indépendance.
 
-Le rôle ambigu joué par le pouvoir français dans la définition du processus
-d'auto-détermination
+Le rôle ambigu joué par le pouvoir français dans la définition du processus d'auto-détermination
+---
 
 La Nouvelle-Calédonie est considérée comme un des derniers territoires sous
 tutelle de la planète[^1]. Parmi les colonies françaises, la Nouvelle Calédonie
@@ -29,7 +29,7 @@ possède une histoire qui la rapproche, à plusieurs égards, de l'Algérie : s
 colonisation est récente (1853 contre 1830 pour l'Algérie) ; il s'agit d'une
 colonie de peuplement – où les colons français s'installent et développent une
 activité économique aux dépens des habitants autochtones majoritairement kanaks
-- et les rapports entre les peuples colonisés et la puissance coloniale ont été
+– et les rapports entre les peuples colonisés et la puissance coloniale ont été
 particulièrement violents. Cette violence culmine dans les années 1980 où les
 tensions sur le statut de l'île et les droits des populations kanakes
 débouchent sur une guerre civile, que le pouvoir français refusera de qualifier
@@ -64,8 +64,8 @@ Matignon suite à un referendum organisé par le gouvernement le  6 novembre
 1988. Tjibaou et son bras droit du FNLKS Yeiwéné Yeiwéné seront assassinés
 l'année suivante par un opposant kanak aux accords de Matignon.
 
-La souveraineté sans l'indépendance : la négociation d'un statut spécial pour
-la Nouvelle Calédonie
+La souveraineté sans l'indépendance : la négociation d'un statut spécial pour la Nouvelle Calédonie
+---
 
 Les accords de Matignon instaurent trois provinces semi-autonomes dont deux
 sont majoritairement peuplées par les kanaks, leur permettant ainsi de disposer
@@ -106,6 +106,7 @@ ou non de l'archipel dans la France devant être décidé par referendum au plus
 tard en 2018. 
 
 Le référendum du 4 novembre et ses enseignements pour les territoires
+---
 
 Il est surprenant de constater que dans ce contexte, la question posée aux
 néo-calédoniens porte exclusivement sur l'indépendance pleine et entière de la

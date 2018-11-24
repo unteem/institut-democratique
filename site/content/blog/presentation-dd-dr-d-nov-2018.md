@@ -2,7 +2,7 @@
 title = "Mardi 27 novembre - 19h. Présentation du mouvement pour un Dauphiné démocratique !"
 date = "2018-11-24T12:40:00+01:00"
 tags = ["Évènement","Dr D.","Grenoble"]
-categories = ["Évènements"]
+categories = ["Événements"]
 banner = "img/DD-logo.png"
 +++
 

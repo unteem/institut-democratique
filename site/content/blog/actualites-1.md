@@ -1,9 +1,9 @@
 +++
-title = "Les enseignements de la Nouvelle Calédonie pour les territoires français"
+title = "Les actus démocratiques : les enseignements de la Nouvelle Calédonie pour les territoires français"
 date = "2018-11-19T12:40:00+01:00"
 author = "Clara Egger"
 tags = ["Nouvelle Calédonie","Confédéralisme","Referendum"]
-categories = ["Actualités"]
+categories = ["Les actus démocratiques"]
 banner = "img/articles/drapeau-kanak.jpg"
 +++
 

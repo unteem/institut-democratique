@@ -1,5 +1,5 @@
 +++
-title = "Les actus démocratiques : les enseignements de la Nouvelle Calédonie pour les territoires français"
+title = "L'actu démocratique n°1 : les enseignements de la Nouvelle Calédonie pour les territoires français"
 date = "2018-11-19T12:40:00+01:00"
 author = "Clara Egger"
 tags = ["Nouvelle Calédonie","Confédéralisme","Referendum"]

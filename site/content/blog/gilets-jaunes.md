@@ -4,7 +4,7 @@ date = "2018-12-09T21:42:00+01:00"
 author = "Clara Egger et Raul Magni-Berton"
 tags = ["Gilets Jaunes","Démocratie directe","Communes"]
 categories = ["Les éditos démocratiques"]
-banner = "img/articles/drapeau-kanak.jpg"
+banner = "img/articles/gilets-jaunes.jpg"
 +++
 
 Nous avons l’espoir que les Gilets jaunes changent en profondeur l’organisation

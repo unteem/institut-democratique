@@ -1,7 +1,7 @@
 +++
 title = "Gilets Jaunes : l'espoir de la démocratie directe et du pouvoir aux communes"
 date = "2018-12-09T21:42:00+01:00"
-author = "Clara Egger et Raul Magni-Berton"
+author = "Collectif"
 tags = ["Gilets Jaunes","Démocratie directe","Communes"]
 categories = ["Les éditos démocratiques"]
 banner = "img/articles/gilets-jaunes.jpg"
@@ -89,5 +89,3 @@ appliquer les recettes simples que les élus normaux ne peuvent pas faire.
 Nous les soutenons donc tout en les encourageant à s’engager sur un programme
 et à prendre le pouvoir. Ils pourront compter sur nous pour faire campagne pour
 eux.
-
-*(Relu et corrigé par Nelly Darbois et Baptiste Pichot)*

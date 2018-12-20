@@ -14,8 +14,8 @@ fiscale, se pose la question du pouvoir des personnes sur leur vie et leur
 avenir. Pas de taxation sans pouvoir de décision ! 
 
 Grace aux Gilets Jaunes, la France n’a jamais été aussi prête d’adopter le
-referendum d’initiative populaire que nous revendiquons. La pression est forte,
-et nous feront notre possible pour y contribuer. 
+référendum d’initiative populaire que nous revendiquons. La pression est forte,
+et nous ferons notre possible pour y contribuer. 
 
 Cependant, le chemin est semé d’embûches, car notre système de sélection des
 élites produit des dirigeants qui, peu informés de ce qu’il se passe dans le
@@ -49,10 +49,12 @@ compétences pour s’auto-administrer.
 
 Ne nous laissons pas voler notre avenir et celui de nos enfants, exigeons une
 réforme radicale du pouvoir par :
-* l´adoption du RIC à tous les niveaux de gouvernement et sur tous les sujets
-* la fin du centralisme parisien par l´adoption du confédéralisme. Le pouvoir
-  doit être aux territoires français qui peuvent ensuite déléguer à l’état
-  confédéral certaines compétences de leur choix. 
+
+ * l´adoption du RIC à tous les niveaux de gouvernement et sur tous les sujets
+
+ * la fin du centralisme parisien par l´adoption du confédéralisme. Le pouvoir
+   doit être aux territoires français qui peuvent ensuite déléguer à l’état
+   confédéral certaines compétences de leur choix. 
 
 Ni RIC au rabais, ni démocratie participative, exigeons la démocratie directe
 en Dauphiné, comme dans toutes les autres régions de France. 

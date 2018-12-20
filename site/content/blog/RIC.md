@@ -3,7 +3,7 @@ title = "Ni RIC au rabais, ni démocratie participative : exigeons la démocrati
 date = "2018-12-20T20:57:42+01:00"
 author = "Collectif"
 tags = ["Gilets Jaunes","Démocratie directe","Communes","RIC"]
-categories = ["Les actus démocratiques"]
+categories = ["Communiqués"]
 banner = "img/articles/gilets-jaunes-RIC.jpg"
 +++
 

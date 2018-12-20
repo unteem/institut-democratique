@@ -3,7 +3,7 @@ title = "Gilets Jaunes : l'espoir de la démocratie directe et du pouvoir aux 
 date = "2018-12-09T21:42:00+01:00"
 author = "Collectif"
 tags = ["Gilets Jaunes","Démocratie directe","Communes","RIC"]
-categories = ["Les actus démocratiques"]
+categories = ["Communiqués"]
 banner = "img/articles/gilets-jaunes.jpg"
 +++
 

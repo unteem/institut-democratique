@@ -1,6 +1,6 @@
 +++
 title = "Ni RIC au rabais, ni démocratie participative : exigeons la démocratie directe en Dauphiné !"
-date = "2018-12-20T20:38+01:00"
+date = "2018-12-20T20:57:42+01:00"
 author = "Collectif"
 tags = ["Gilets Jaunes","Démocratie directe","Communes","RIC"]
 categories = ["Les actus démocratiques"]

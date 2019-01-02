@@ -4,7 +4,7 @@ date = "2019-01-01T10:00:00+02:00"
 author = "Raul Magni-Berton"
 tags = ["RIC","Référendum d'initiative populaire","Référendum d'initiative citoyenne","Démocratie directe","Gilets jaunes"]
 categories = ["Les éditos démocratiques"]
-banner = "img/articles/gilets-jaunes.jpg"
+banner = "img/articles/gilets-jaunes-RIC.jpg"
 +++
 
 Le référendum d’initiative citoyenne a donné lieu, ces dernières

@@ -78,7 +78,7 @@ diront « oui », car ils gagnent un pont sans le payer. C’est ce qu’il se
 passe dans les municipalités aux Etats-Unis, où – contrairement aux
 Etats - les déficits ont tendance à augmenter. En revanche, lorsque le
 RIC porte sur le niveau où l’impôt est collecté, les effets vertueux
-cités plus haut sont visibles : les citoyens font des plus responsables
+cités plus haut sont visibles : les citoyens font des choix plus responsables
 que leurs élus. Par conséquent, en l’état actuel de l’organisation des
 pouvoirs en France, le RIC est intéressant surtout au niveau national.
 Si la France était amenée à donner à ses régions ou communes une plus

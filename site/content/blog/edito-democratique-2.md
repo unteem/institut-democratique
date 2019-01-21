@@ -2,7 +2,7 @@
 title = "L'édito démocratique n°2 : Pourquoi le fédéralisme et la démocratie directe aident à résoudre le principal problème de nos démocraties représentatives ?"
 date = "2018-12-02T17:00:00+02:00"
 author = "Raul Magni-Berton"
-tags = ["Fédéralisme","Démocratie directe", "Oligarchie", "Démocratie représentative"]
+tags = ["Fédéralisme","Démocratie directe", "Oligarchie", "Démocratie représentative","RIC"]
 categories = ["Les éditos démocratiques"]
 banner = "img/articles/carta_por_la_democracia.jpg"
 +++

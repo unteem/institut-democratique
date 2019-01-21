@@ -46,30 +46,42 @@ paginate = 10
 
 # Top bar social links menu
 
-[[menu.topbar]]
-    weight = 3
-    name = "Nous contacter"
-    url = "/contact/"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
-
 #[[menu.topbar]]
 #    weight = 5
 #    name = "Faire un don"
 #    url = "#"
 #    pre = "<i class='fas fa-2x fa-donate'></i>"
 
-#[[menu.topbar]]
-#    weight = 3
-#    name = "Espace membres"
-#    url = "#"
-#    pre = "<i class='fas fa-2x fa-users'></i>"
+[[menu.topbar]]
+    weight = 4
+    name = "Contact"
+    url = "/contact/"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UCRm2mywOzmWk-9ALfN6YNhA"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Twitter"
+    url = "https://twitter.com/DDemocratique"
+    pre = "<i class='fab fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "https://facebook.com/DDemocratique"
+    pre = "<i class='fab fa-2x fa-facebook-f'></i>"
 
 
 [params]
     viewMorePostLink = "/blog/"
     author = "Dauphiné Démocratique"
-    defaultKeywords = ["Confédéralisme", "Démocratie directe", "Dauphiné"]
-    defaultDescription = "Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national."
+    defaultKeywords = ["Confédéralisme", "Démocratie directe", "Dauphiné", "RIC"]
+    defaultDescription = "Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe (RIC) du niveau municipal au national."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = ""
@@ -92,7 +104,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     #email = ""
 
-    about_us = "<p>Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national.</p>"
+    about_us = "<p>Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe (RIC) du niveau municipal au national.</p>"
     copyright = "Mouvement pour un Dauphiné démocratique"
 
     # Format dates with Go's time formatting
@@ -110,11 +122,14 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs"> <a href="https://facebook.com/DDemocratique" data-animate-hover="pulse"><i class='fab fa-2x fa-facebook-f'></i></a>   <a href="https://twitter.com/DDemocratique" data-animate-hover="pulse"><i class='fab fa-2x fa-twitter'></i></a>   <a href="https://www.youtube.com/channel/UCRm2mywOzmWk-9ALfN6YNhA"" data-animate-hover="pulse"><i class='fab fa-2x fa-youtube''></i></a></p>
-      </p>
+    text = """<p style="
+    font-weight: bold;     text-transform: uppercase;
+"> <a href="https://parlement.democratique.org/login" data-animate-hover="pulse" style="    border: 2px solid;
+    border-radius: 10px;
+    padding: 5px;
+    padding-top: 8px;
+"><i class='fas fa-2x fa-users' style=" vertical-align: sub;     margin-right: 5px;"></i> Nous rejoindre <span  class='hidden-sm hidden-xs' >sur l'espace membres </span></a></p>
       """
-
-
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -146,7 +161,7 @@ paginate = 10
     enable = true
     icon = "fa fa-flag"
     title = "Notre charte"
-    subtitle = "Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe du niveau municipal au national."
+    subtitle = "Le mouvement pour un Dauphiné démocratique vise à rendre aux citoyennes et aux citoyens dauphinois·e·s le contrôle de leur vie, en les rapprochant du pouvoir et en les dotant d’outils pour le contrôler. Pour cela, le Dauphiné démocratique souhaite promouvoir et instaurer le confédéralisme et la démocratie directe (RIC) du niveau municipal au national."
     link_url = "/manifeste/"
     link_text = "Voir les six engagements fondamentaux de notre charte"
 

@@ -7,6 +7,9 @@ categories = ["Les éditos démocratiques"]
 banner = "img/articles/gilets-jaunes-RIC.jpg"
 +++
 
+{{< youtube ZME9ufJoFS0 >}}
+
+
 Le référendum d’initiative citoyenne a donné lieu, ces dernières
 semaines, à toute sorte de spéculations souvent très éloignées de la
 réalité. S’agissant d’une institution très bien connue car très étudiée,

@@ -2,7 +2,7 @@
 title = "L'édito démocratique n°1 : Pourquoi nous préférons la démocratie directe à la démocratie participative ?"
 date = "2018-11-10T17:00:00+02:00"
 author = "Raul Magni-Berton"
-tags = ["Démocratie participative","Démocratie directe"]
+tags = ["Démocratie participative","Démocratie directe","RIC"]
 categories = ["Les éditos démocratiques"]
 banner = "img/articles/carta_por_la_democracia.jpg"
 +++

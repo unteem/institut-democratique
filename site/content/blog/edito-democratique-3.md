@@ -2,7 +2,7 @@
 title = "L'édito démocratique n°3 : le référendum d'initiative populaire"
 date = "2018-12-13T17:00:00+02:00"
 author = "Raul Magni-Berton"
-tags = ["Référendum d'initiative populaire","Référendum d'initiative citoyenne","Démocratie directe"]
+tags = ["RIC","Référendum d'initiative populaire","Référendum d'initiative citoyenne","Démocratie directe"]
 categories = ["Les éditos démocratiques"]
 banner = "img/articles/carta_por_la_democracia.jpg"
 +++

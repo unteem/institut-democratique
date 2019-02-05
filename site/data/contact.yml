@@ -1,0 +1,14 @@
+enable : true
+title : Nous contacter
+formTitle : Formulaire de contact
+btnText : Envoyer
+contactList : 
+  - icon : ti-mobile
+    listItem1 : +33 6 95 02 51 17
+    
+  - icon : ti-email
+    listItem1 : institut@democratique.org
+    
+#  - icon : ti-map-alt
+#    listItem1 : 24/B Garden Street.
+#    listItem2 : Northambia, Weals, UK

@@ -1,0 +1,47 @@
+enable : true
+sliderItem:
+  - subHeading : Découvrir
+    heading : L'autonomie des communes suisses
+    description : 
+    bgImage : images/banner/banner-2.jpg
+    dataIcon : ti-world
+    dataText : Séjours d'études
+    btn : 
+      enable : true
+      btnText: En savoir plus
+      btnURL : '/service/sejours/'
+ 
+  - subHeading : Se former
+    heading : La démocratie en collectif
+    description :
+    bgImage : images/banner/banner-4.jpg
+    dataIcon : ti-medall-alt
+    dataText : Formations
+    btn : 
+      enable : true
+      btnText: En savoir plus
+      btnURL : '/service/formations/'
+
+  - subHeading : Accompagnements
+    heading : La démocratie en entreprise
+    description : 
+    bgImage : images/banner/banner-3.jpg
+    dataIcon : ti-ruler-pencil
+    dataText : Expertises
+    btn : 
+      enable : true
+      btnText: En savoir plus
+      btnURL : '/service/expertises/'
+           
+
+      
+  - subHeading : Recherches
+    heading : Démocratie directe et locale
+    description :
+    bgImage : images/banner/banner-1.jpg
+    dataIcon : ti-infinite
+    dataText : Recherches
+    btn : 
+      enable : true
+      btnText: En savoir plus
+      btnURL : '/project'

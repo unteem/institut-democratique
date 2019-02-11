@@ -1,0 +1,18 @@
+enable : true
+titleSM : Objectifs
+title : Nos missions
+description : L'institut a pour objet de promouvoir le fonctionnement démocratique sous toutes ces formes.
+image : images/chart.png
+accordion :
+  - ID : collapseOne
+    title : Recherches
+    description : "L’institut se donne pour modalité de produire une activité de recherche dans les sciences politiques et sociales par
+l’organisation d’événements, de publications, d'enseignements et d'interventions."
+    
+  - ID : collapseTwo
+    title : Formations des élus locaux
+    description : "L’institut se donne pour modalité de dispenser des formations aux élus locaux (municipaux, départementaux, nationaux)."
+    
+  - ID : collapseThree
+    title : Formations professionnelles
+    description : "L’institut se donne pour modalité de proposer des services de conseils, d’accompagnement, de formation et de développements de projets."

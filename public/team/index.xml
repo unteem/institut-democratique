@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notre équipe et le comité scientifique on Institut de Recherche Territoire Démocratique</title>
+    <link>/team/</link>
+    <description>Recent content in Notre équipe et le comité scientifique on Institut de Recherche Territoire Démocratique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Albin Guillaud</title>
+      <link>/team/albin-guillaud/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:51 +0600</pubDate>
+      
+      <guid>/team/albin-guillaud/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Raul Magni-Berton</title>
+      <link>/team/raul-magni-berton/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:31 +0600</pubDate>
+      
+      <guid>/team/raul-magni-berton/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Clara Egger</title>
+      <link>/team/clara-egger/</link>
+      <pubDate>Sat, 29 Sep 2018 14:41:38 +0600</pubDate>
+      
+      <guid>/team/clara-egger/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Nelly Darbois</title>
+      <link>/team/nelly-darbois/</link>
+      <pubDate>Sat, 29 Sep 2018 12:58:30 +0600</pubDate>
+      
+      <guid>/team/nelly-darbois/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

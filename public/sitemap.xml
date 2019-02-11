@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/project/mediapart-jan19/</loc>
+    <lastmod>2019-01-13T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/livre-ric/</loc>
+    <lastmod>2019-01-01T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/albin-guillaud/</loc>
+    <lastmod>2018-09-29T14:42:51+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/raul-magni-berton/</loc>
+    <lastmod>2018-09-29T14:42:31+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/clara-egger/</loc>
+    <lastmod>2018-09-29T14:41:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/nelly-darbois/</loc>
+    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/formations/</loc>
+    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/expertises/</loc>
+    <lastmod>2018-09-29T11:51:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/sejours/</loc>
+    <lastmod>2018-09-25T15:51:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pricing/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-13T14:48:03+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

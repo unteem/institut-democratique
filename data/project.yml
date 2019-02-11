@@ -1,0 +1,17 @@
+title : Nos recherches
+content : L’institut se donne pour objectif de produire une activité de recherche dans les sciences politiques et sociales par l’organisation d’événements, de publications, d'enseignements et d'interventions.
+
+filterList : 
+  - filterTitle : Livres
+    dataFilter : livres
+
+  - filterTitle : Interventions médiatiques
+    dataFilter : medias
+
+
+  - filterTitle : Publications scientifiques
+    dataFilter : publications
+    
+  - filterTitle : Recherches en cours
+    dataFilter : recherches
+    

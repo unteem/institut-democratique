@@ -13,21 +13,15 @@ offDay: Friday
 type : service
 ---
 
-### Marketing Oriented To The Targated Customers
+### Développer son fonctionnement démocratique
+L’institut propose des services de conseils, d’accompagnement et de développements de projets adaptés à votre contexte.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+>L'institut apporte son expertise dans l'application concrète des différentes pratiques démocratiques − de l'organisation d'un collectif à la mise en place de la démocratie directe à l'échelle d'un pays.
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
-
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
-
-#### Marketing Improvement Strategy
-
-![Chart](../../images/service/service-chart.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
----
+### Quelques thématiques
+1. Radicalisation / laicité
+2. Droit des collectivités
+3. Processus électoraux
+4. Organisation de temps démocratiques (réunions publiques, débats…)
 

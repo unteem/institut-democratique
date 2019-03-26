@@ -1,7 +1,7 @@
 enable : true
 sliderItem:
-  - subHeading : Découvrir
-    heading : L'autonomie des communes suisses
+  - subHeading : Découvrir sur le terrain
+    heading : Des innovations démocratiques
     description : 
     bgImage : images/banner/banner-2.jpg
     dataIcon : ti-world
@@ -12,7 +12,7 @@ sliderItem:
       btnURL : '/service/sejours/'
  
   - subHeading : Se former
-    heading : La démocratie en collectif
+    heading : Pratiquer la démocratie en collectif
     description :
     bgImage : images/banner/banner-4.jpg
     dataIcon : ti-medall-alt
@@ -22,8 +22,8 @@ sliderItem:
       btnText: En savoir plus
       btnURL : '/service/formations/'
 
-  - subHeading : Accompagnements
-    heading : La démocratie en entreprise
+  - subHeading : Accompagnements / Expertises
+    heading : Dévelloper son fonctionnement démocratique
     description : 
     bgImage : images/banner/banner-3.jpg
     dataIcon : ti-ruler-pencil

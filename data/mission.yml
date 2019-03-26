@@ -1,18 +1,22 @@
 enable : true
 titleSM : Objectifs
 title : Nos missions
-description : L'institut a pour objet de promouvoir le fonctionnement démocratique sous toutes ces formes.
+description : L'institut a pour objet de promouvoir le fonctionnement démocratique sous toutes ces formes
 image : images/chart.png
 accordion :
   - ID : collapseOne
     title : Recherches
-    description : "L’institut se donne pour modalité de produire une activité de recherche dans les sciences politiques et sociales par
-l’organisation d’événements, de publications, d'enseignements et d'interventions."
+    description : "L’institut produit une activité de recherche dans les sciences politiques et sociales. Nous organisation des événements, publions des travaux de recherche, proposons des enseignements et des interventions"
     
   - ID : collapseTwo
-    title : Formations des élus locaux
-    description : "L’institut se donne pour modalité de dispenser des formations aux élus locaux (municipaux, départementaux, nationaux)."
-    
+    title : Formations
+    description : "L’institut développe et propose des formations pour différents publiques : collectivités, associations, collectifs"
+
   - ID : collapseThree
-    title : Formations professionnelles
-    description : "L’institut se donne pour modalité de proposer des services de conseils, d’accompagnement, de formation et de développements de projets."
+    title : Accompagenements / Expertises
+    description : "L’institut propose des services de conseils, d’accompagnement et de développements de projets"
+
+  - ID : collapseFour
+    title : Séjours d'étude
+    description : "L'institut organise des séjours d'étude afin de découvrir sur le terrain des pratiques démocratiques innovantes : confédéralisme, décentralisation, démocratie directe, autonomie communale"
+    

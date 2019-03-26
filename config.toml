@@ -31,7 +31,7 @@ summaryLength = "20"
     weight = 6
     
     [[menu.nav]]
-    name = "Formations"
+    name = "Activités"
     URL = "/service"
     weight = 5
  
@@ -74,7 +74,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     enable = true
     bgImage = "images/background/about-bg.jpg"
     title = "Qui sommes-nous ?"
-    description = "Nous sommes formateurs, enseignants et chercheurs, nous formons et étudions les institutions de démocratie directe comme le référendum d'initiatives citoyennes et la démocratie locale, notamment le confédéralisme."
+    description = "Formateurs, enseignants, chercheurs, nous étudions les innovations démocratiques."
     [params.about.btn]
     enable = true
     btnText = "En savoir plus"

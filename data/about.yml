@@ -1,25 +1,25 @@
 philosophy :
   enable : true
-  titleSM : Know About
-  title : Our Philosophy
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderivoluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat noproident sunt culpa qui officia deserunt mollit anim id est laborum.<br> Sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
+  titleSM : Nous connaitre
+  title : Notre objet
+  content : "L'Institut de Recherche Territoire Démocratique (IRTD) s'est créé à l'initiative d'universitaires, enseignants-chercheurs, formateurs dans l'objectif de transmettre à un large publique le produit de leur démarche de recherche. Fort de son expertise, l'institut se spécialise dans l'application concrète des différentes pratiques démocratiques − de l'organisation d'un collectif à la mise en place de la démocratie directe à l'échelle d'un pays."
   image : images/about/philosophy.jpg
   btn :
-    enable : true
+    enable : false
     btnText : Explore More
     btnURL : "#"
 
 ceo :
   enable : true
-  bgImage : images/about/ceo.jpg
-  title : We are efficient to <br> make your business rise
+  bgImage : images/about/egger.png
+  title : Notre vision de la démocratie
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
   signature : images/about/ceo-signature.png
-  name : John Doe
-  designation : CEO
+  name : Clara Egger
+  designation : Présidente
 
 funfacts : 
-  enable : true
+  enable : false
   bgImage : images/background/cta.jpg
   counter : 
     - title : Projects Done

@@ -13,20 +13,15 @@ offDay: Friday
 type : service
 ---
 
-### Marketing Oriented To The Targated Customers
+### La démocratie en collectif
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+L’institut développe et propose des formations pour différents publiques : collectivités, associations, collectifs
 
+>Nos formations visent à s'approprier des connaissances, basées sur des recherches scientifiques, et des méthodologies pour leurs applications concrètes. L'objectif étant de dévolloper les pratiques démocratiques à différentes échelles (collectifs, associations, entreprises, institutions, collectivités…)
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+1. Organiser et animer des temps démocratiques (réunions, assemblées générales, débats publiques)
+2. Décider collectivement (de la réunion au référendum)
+3. Comprendre la gestion financière locale
+4. Comprendre et agir dans les situations de conflits
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
-
-#### Marketing Improvement Strategy
-
-![Chart](../../images/service/service-chart.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
 

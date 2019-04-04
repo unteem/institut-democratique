@@ -3,7 +3,7 @@ title: "Intervention dans Médiapart sur les Gilets Jaunes"
 date: 2019-01-13T14:48:03+06:00
 bgImage: images/background/page-title.jpg
 tag : RIC, Gilets Jaunes, Médiapart
-image : images/project/project-2.jpg
+image : images/project/promo-video.jpg
 client : Médiapart
 category : Médias
 expertise : Démocratie directe
@@ -13,21 +13,16 @@ type : project
 filterCategories: medias
 ---
 
-### Apollo For Baximco Inc. Australia
+Raul Magni-Berton était l'invité de Médiapart Live le 16 janv. 2019 pour parler du RIC et des Gilets Jaunes, voici des extraits de ses interventions.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< youtube aPZtJMofWBw >}}
 
+{{< youtube _qxRdTON6L0 >}}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< youtube dSBRGQnTvJI >}}
 
-###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{{< youtube odWK_nIGwqo >}}
 
-###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{{< youtube 1m2lNffmhH0 >}}
 
-### Aftermath Of Apollo
-![Chart](../../images/service/service-chart.jpg)
-
-#### Market Analysis 2017
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+{{< youtube 8kYUEwf-uDs >}}

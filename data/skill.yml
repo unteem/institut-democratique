@@ -1,6 +1,6 @@
 enable : false
-titleSM : Best Service
-title : Why Choose Us
+titleSM : Nos activités
+title : Ce que nous faisons
 content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum. sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
 counter :
   - icon : ti-server
@@ -16,14 +16,11 @@ counter :
     count : 580
 
 progressBar : 
-  - title : Branding
-    progress : 85%
+  - title : Recherches
+    progress : 40%
     
-  - title : Consulting
-    progress : 90%
+  - title : Formations
+    progress : 30%
     
-  - title : Business
-    progress : 75%
-    
-  - title : Promotion
-    progress : 90%
+  - title : Séjours d'étude
+    progress : 30%

@@ -14,7 +14,7 @@ ceo :
   bgImage : images/about/egger.png
   title : Notre vision de la démocratie
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
-  signature : images/about/ceo-signature.png
+#  signature : images/about/ceo-signature.png
   name : Clara Egger
   designation : Présidente
 

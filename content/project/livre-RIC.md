@@ -1,33 +1,21 @@
 ---
-title: "Étude sur le RIC"
-date: 2019-01-01T14:48:03+06:00
+title: "RIC : Le référendum d'initiative citoyenne expliqué à tous"
+date: 2019-04-1T14:48:03+02:00
 bgImage: images/background/page-title.jpg
 tag : RIC
 image : images/project/livre-ric.jpg
 client : fyp éditions
 category : Livres
 expertise : Démocratie directe
-liveDemoURL : '#'
-caseStudy : '#'
+liveDemoURL : 'https://boutique.fypeditions.com/products/ric-le-referendum-d-initiative-citoyenne-explique-a-tous-au-coeur-de-la-democratie-directe'
+caseStudy : 'https://boutique.fypeditions.com/products/ric-le-referendum-d-initiative-citoyenne-explique-a-tous-au-coeur-de-la-democratie-directe'
 type : project
 filterCategories: livres
 ---
 
-### Apollo For Baximco Inc. Australia
+### Description
+De Raul Magni-Berton et Clara Egger
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En collaboration avec Ismaël Benslimane, Nelly Darbois, Albin Guillaud et Baptiste Pichot
 
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Aftermath Of Apollo
-![Chart](../../images/service/service-chart.jpg)
-
-#### Market Analysis 2017
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+Le référendum d’initiative citoyenne (RIC) est utilisé dans une dizaine d’États, des centaines de régions et des milliers de communes. Avec l’émergence du mouvement des Gilets jaunes, le RIC se retrouve au coeur des discussions, depuis les ronds-points de France jusqu’à l’hémicycle de l’Assemblée nationale. Ce livre propose un panorama complet de l’histoire du RIC. Il analyse les grandes décisions prises à travers lui, décrypte ses principes, ses différentes modalités, ses effets sur les politiques publiques et sur les citoyens, etc. Les auteurs, spécialistes des systèmes démocratiques contemporains, tirent les enseignements de la pratique du RIC dans différents pays et à diverses époques. En s’appuyant sur des connaissances solides et un retour d’expérience, ils expliquent les conditions de sa mise en place concrète, les formes qu’il peut prendre en France, et comment lever les obstacles à son utilisation. Cet ouvrage déconstruit les idées reçues et rend accessible au plus grand nombre tout ce qu’il y a à savoir sur cet outil central de la démocratie directe.

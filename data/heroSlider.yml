@@ -23,7 +23,7 @@ sliderItem:
       btnURL : '/service/formations/'
 
   - subHeading : Accompagnements / Expertises
-    heading : Dévelloper son fonctionnement démocratique
+    heading : Fonctionner démocratiquement
     description : 
     bgImage : images/banner/banner-3.jpg
     dataIcon : ti-ruler-pencil

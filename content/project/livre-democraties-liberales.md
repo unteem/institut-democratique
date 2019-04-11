@@ -10,7 +10,7 @@ expertise : Démocratie libérale
 liveDemoURL : 'https://www.economica.fr/livre-democraties-liberales-magni-berton-raul,fr,4,9782717864700.cfm'
 caseStudy : 'https://www.economica.fr/livre-democraties-liberales-magni-berton-raul,fr,4,9782717864700.cfm'
 type : project
-filterCategories: livres
+filterCategories: livres publications
 ---
 
 #### Description

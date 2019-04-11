@@ -1,9 +1,9 @@
 ---
-title: "Nelly Darbois"
-date: 2018-09-29T12:58:30+06:00
-designation: Comité scientifique - Santé
-fonction : comité
-image : images/team/team-page-1.jpg
+title: "Ismaël Benslimane"
+date: 2018-09-29T14:42:51+06:00
+designation: Contributeur - Démocratie directe
+fonction : contributeur
+image : images/team/Ismael_Benslimane.jpg
 bgImage: images/background/page-title.jpg
 facebookURL : '#'
 twitterURL : '#'

@@ -5,10 +5,6 @@ filterList :
   - filterTitle : Livres
     dataFilter : livres
 
-  - filterTitle : Interventions médiatiques
-    dataFilter : medias
-
-
   - filterTitle : Publications scientifiques
     dataFilter : publications
     

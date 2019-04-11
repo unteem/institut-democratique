@@ -13,9 +13,8 @@ offDay: Friday
 type : service
 ---
 
-### Développer son fonctionnement démocratique
-L’institut propose des services de conseils, d’accompagnement et de développements de projets adaptés à votre contexte.
-
+### Développer son fonctionnement démocratique.
+L’institut propose des services de conseils, d’accompagnement et de développements de projets adaptés à votre contexte − de l'organisation d'un collectif au fonctionement de la démocratie directe à l'échelle d'un pays.
 
 >L'institut apporte son expertise dans l'application concrète des différentes pratiques démocratiques − de l'organisation d'un collectif à la mise en place de la démocratie directe à l'échelle d'un pays.
 

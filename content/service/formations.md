@@ -13,11 +13,11 @@ offDay: Friday
 type : service
 ---
 
-### La démocratie en collectif
+### La démocratie en collectif.
 
-L’institut développe et propose des formations pour différents publiques : collectivités, associations, collectifs
+L’institut propose des formations pour différents publiques : collectivités et associations. Nos formations visent à s'approprier des connaissances, basées sur des recherches, et des méthodologies pour leurs applications concrètes.
 
->Nos formations visent à s'approprier des connaissances, basées sur des recherches scientifiques, et des méthodologies pour leurs applications concrètes. L'objectif étant de dévolloper les pratiques démocratiques à différentes échelles (collectifs, associations, entreprises, institutions, collectivités…)
+> L'objectif étant de dévolloper les pratiques démocratiques à différentes échelles (collectifs, associations, entreprises, institutions, collectivités…)
 
 1. Organiser et animer des temps démocratiques (réunions, assemblées générales, débats publiques)
 2. Décider collectivement (de la réunion au référendum)

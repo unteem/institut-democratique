@@ -1,9 +1,9 @@
 ---
 title: "Albin Guillaud"
 date: 2018-09-29T14:42:51+06:00
-designation: Comité scientifique - Santé
-fonction : comité
-image : images/team/team-page-5.jpg
+designation: Contributeur - Démocratie directe
+fonction : contributeur
+image : images/team/Albin_Guillaud.jpg
 bgImage: images/background/page-title.jpg
 facebookURL : '#'
 twitterURL : '#'

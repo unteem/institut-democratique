@@ -13,9 +13,9 @@ offDay: Friday
 type : service
 ---
 
-### Découvrir des innovations démocratiques
+### Découvrir des innovations démocratiques.
 
-L'institut organise des séjours d'étude afin de découvrir sur le terrain des pratiques démocratiques innovantes : confédéralisme, décentralisation, démocratie directe, autonomie communale
+L'institut organise des séjours d'étude afin de découvrir sur le terrain des pratiques démocratiques innovantes : confédéralisme, décentralisation, démocratie directe, autonomie communale.
 
 1. Démocratie directe en Californie
 2. Démocratie locale en Suisse

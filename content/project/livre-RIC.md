@@ -1,6 +1,6 @@
 ---
 title: "RIC : Le référendum d'initiative citoyenne expliqué à tous"
-date: 2019-04-1T14:48:03+02:00
+date: 2019-04-01T14:48:03+02:00
 bgImage: images/background/page-title.jpg
 tag : RIC
 image : images/project/livre-ric.jpg
@@ -10,7 +10,7 @@ expertise : Démocratie directe
 liveDemoURL : 'https://boutique.fypeditions.com/products/ric-le-referendum-d-initiative-citoyenne-explique-a-tous-au-coeur-de-la-democratie-directe'
 caseStudy : 'https://boutique.fypeditions.com/products/ric-le-referendum-d-initiative-citoyenne-explique-a-tous-au-coeur-de-la-democratie-directe'
 type : project
-filterCategories: livres
+filterCategories: livres publications
 ---
 
 ### Description

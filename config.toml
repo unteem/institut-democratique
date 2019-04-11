@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 title = "Institut de Recherche Territoire Démocratique"
 theme = "biztrox"
 summaryLength = "20"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # navigation
 [menu]

@@ -6,11 +6,11 @@ image : images/chart.png
 accordion :
   - ID : collapseOne
     title : Recherches
-    description : "L’institut produit une activité de recherche dans les sciences politiques et sociales. Nous organisation des événements, publions des travaux de recherche, proposons des enseignements et des interventions"
+    description : "L’institut produit une activité de recherche dans les sciences politiques et sociales. Nous organisons des événements, publions des travaux de recherche, proposons des enseignements et des interventions"
     
   - ID : collapseTwo
     title : Formations
-    description : "L’institut développe et propose des formations pour différents publiques : collectivités, associations, collectifs"
+    description : "L’institut propose des formations pour différents publiques : collectivités, associations, collectifs et entreprises"
 
   - ID : collapseThree
     title : Accompagenements / Expertises

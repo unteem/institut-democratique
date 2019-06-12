@@ -19,4 +19,4 @@ L'institut organise des séjours d'étude afin de découvrir sur le terrain des 
 
 1. Démocratie directe en Californie
 2. Démocratie locale en Suisse
-3. Démocratie dans les pays scandinaves
+3. Démocratie et décentralisation dans les pays scandinaves

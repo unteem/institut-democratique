@@ -10,4 +10,7 @@ filterList :
     
   - filterTitle : Recherches en cours
     dataFilter : recherches
+
+  - filterTitle : Rapport
+    dataFilter : rapport
     

@@ -12,8 +12,8 @@ philosophy :
 ceo :
   enable : true
   bgImage : images/about/egger.png
-  title : Notre vision de la démocratie
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+  title : Notre présidente
+  content : "Clara Egger est docteure en science politique, professeure assistante en relations internationales (mondialisation et action humanitaire) à l'université de Groningen aux Pays-Bas. Chercheure associée, Centre d'éducation et de recherche en action humanitaire de Genève. Chercheure associée, Centre Franco-Paix, Chaire Raoul Dandurand en études stratégiques et diplomatiques, Université du Québec à Montréal"
 #  signature : images/about/ceo-signature.png
   name : Clara Egger
   designation : Présidente

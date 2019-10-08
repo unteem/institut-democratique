@@ -101,7 +101,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
 
     # promo video
     [params.promoVideo]
-    enable = true
+    enable = false
     heading = "Nos interventions dans les médias"
     videoURL = "https://www.youtube.com/watch?v=_0M8Fc7a13Q"
     title = "MédiapartLive - Gilets jaunes: « Ils veulent décider, pas participer à un grand débat »"

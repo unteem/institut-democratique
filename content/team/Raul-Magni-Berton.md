@@ -1,8 +1,8 @@
 ---
 title: "Raul Magni-Berton"
 date: 2018-09-29T14:42:31+06:00
-designation: Membre du conseil d'administration
-fonction : direction
+designation: Chercheur Démocratie Grenoble (France)
+fonction : comité
 image : images/team/raul_magni-berton.jpg
 bgImage: images/background/page-title.jpg
 labURL : 'http://www.sciencespo-grenoble.fr/membres/magni-berton-raul/'

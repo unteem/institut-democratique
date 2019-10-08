@@ -1,8 +1,8 @@
 ---
 title: "Clara Egger"
 date: 2018-09-29T14:41:38+06:00
-designation: Membre du conseil d'administration
-fonction : direction
+designation: Chercheure Relations Internationales Groningen (Pays-Bas)
+fonction : comité
 image : images/team/clara_egger.jpg
 bgImage: images/background/page-title.jpg
 labURL : 'https://www.rug.nl/staff/c.m.egger/'

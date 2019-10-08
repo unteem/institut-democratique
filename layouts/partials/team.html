@@ -14,7 +14,7 @@
 ">
                         <img class="card-img-top" src="{{ .Params.Image | absURL }}" alt="team-member">
                     </a>
-                    <div class="card-body card-body-2 pb-0 px-4">
+                    <div class="card-body card-body-2 pb-0 px-2">
                         <h5 class="card-title">{{ .Title }}</h5>
                         <h6 class="text-color mb-30">{{ .Params.Designation }}</h6>
 {{/*}}
@@ -52,7 +52,7 @@
 	    
             {{ range where .Data.Pages "Params.fonction" "comité" }}
             {{ "<!-- team member -->" | safeHTML }}
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-2 col-sm-6 mb-4">
                 <div class="card text-center">
 {{ if .Params.labURL }}
                     <a href="{{ .Params.labURL }}">
@@ -61,7 +61,7 @@
 {{ else }}
                         <img class="card-img-top" src="{{ .Params.Image | absURL }}" alt="team-member">
 {{ end }}
-                    <div class="card-body card-body-2 pb-0 px-4">
+                    <div class="card-body card-body-2 pb-0 px-2">
                         <h5 class="card-title">{{ .Title }}</h5>
                         <h6 class="text-color mb-30">{{ .Params.Designation }}</h6>
 {{/*}}
@@ -99,7 +99,7 @@
 	    
             {{ range where .Data.Pages "Params.fonction" "contributeur" }}
             {{ "<!-- team member -->" | safeHTML }}
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-2 col-sm-6 mb-4">
                 <div class="card text-center">
 {{ if .Params.labURL }}
                     <a href="{{ .Params.labURL }}">

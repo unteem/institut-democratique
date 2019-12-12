@@ -1,0 +1,54 @@
+{{ partial "header.html" . }}
+
+{{ partial "navigation.html" . }}
+
+{{ partial "pageTitle.html" . }}
+
+{{ "<!-- project single -->" | safeHTML }}
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <aside class="col-lg-4 order-lg-1 order-2">
+                {{ "<!-- overview -->" | safeHTML }}
+                <div class="p-4 rounded border mb-50">
+                    <h4 class="text-color mb-20">Résumé</h4>
+                    <ul class="pl-0 mb-20">
+                        <li class="py-3 border-bottom">
+                            <span class="d-inline-block" style="width: 140px;">Recherche :</span>{{ .Title }}</li>
+                        <li class="py-3 border-bottom">
+                            <span class="d-inline-block" style="width: 140px;">Partenaire :</span>{{ .Params.Client }}</li>
+                        <li class="py-3 border-bottom">
+                            <span class="d-inline-block" style="width: 140px;">Support :</span>{{ .Params.Category }}</li>
+                        <li class="py-3 border-bottom">
+                          <span class="d-inline-block" style="width: 140px;">Theme :</span>{{ .Params.Expertise }}</li>
+                        <li class="py-3 border-bottom">
+                            <span class="d-inline-block" style="width: 140px;">Année :</span>{{ .PublishDate.Format "2006" }}</li>
+                    </ul>
+
+                </div>
+                {{ "<!-- case study -->" | safeHTML }}
+                <div class="rounded bg-gray border py-3 px-4 mb-50">
+                    <i class="d-inline-block mr-1 text-dark ti-files" style="font-size: 20px;"></i>
+                    <h4 class="mb-1 d-inline-block">Résumé des résultats</h4>
+                    <a class="font-secondary text-color d-block ml-4" href="{{ .Params.CaseStudy | absURL }}">Télécharger un résumé des résultats (PDF)</a>
+                </div>
+            </aside>
+            {{ "<!-- project content -->" | safeHTML }}
+            <div class="col-lg-8 order-lg-2 order-1">
+                <!--
+                  <img class="img-fluid w-100 mb-60" src="{{ .Params.titleImage | absURL }}" alt="project image">
+                -->
+                <div class="alert alert-warning"><h2>Attention : page en travaux</h2>
+                  Cette page est encore en cours de réalisation.
+                </div>
+                <div class="project-content">
+                {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- /project single -->" | safeHTML }}
+    
+
+{{ partial "footer.html" . }}
